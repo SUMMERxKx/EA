@@ -1,11 +1,11 @@
-# BCI ChatBot
+# EA ChatBot
 
-This is a **BCI-themed** chatbot built with React and integrated with the Gemini API. The chatbot provides answers on topics related to **intact**
+This is a **EA-themed** chatbot built with React and integrated with the Gemini API. The chatbot provides answers on topics related to **EA**
 ## Features
 
-- **User Interface**: Custom BCI-themed design built using React components.
+- **User Interface**: Custom EA-themed design built using React components.
 - **API Integration**: Uses the Gemini API to fetch data and respond to user queries.
-- **Interactive Elements**: Provides information on Intact topics 
+- **Interactive Elements**: Provides information on EA topics 
 - **Responsive Design**: Optimized for all screen sizes and devices.
 
 ## Limitations
